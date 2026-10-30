@@ -1,4 +1,4 @@
-//C program to display "Hello World" on console
+//C program that accepts two numbers , sums them and displays their sum
 
 // pre-processor directve
 #include <stdio.h>
